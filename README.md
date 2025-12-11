@@ -13,7 +13,7 @@ magic is my first solo development project. I welcome pull requests or bug repor
 
 - RetroArch cores for dpad-focused emulation, eliminating bulk for largely incompatible or uncontrollable consoles
 - All-purpose media apps for video, audio, and e-book content
-- Focused and customizable UI from MainPyUI by chrisj951
+- Focused and customizable UI via PyUI by chrisj951
 - Simple ease-of-use functions such as network file management
 
 ## INSTALLATION INSTRUCTIONS
@@ -26,5 +26,5 @@ This software is provided as-is, without warranty.
 
 ## CREDITS
 
-chrisj951 - MainPyUI development
+chrisj951 - PyUI development
 ealang - PixelReader
