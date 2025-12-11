@@ -1,4 +1,5 @@
-# magic CSW for Trimui Brick
+<img src"magiccsw.png" width=500/>
+## magic CSW for Trimui Brick
 ### ver. 0.1 ALPHA
 
 magic CSW was invented to fill a niche of an accessible, minimal-but-comprehensive CSW (community software) solution for the Trimui Brick. It takes cues from several available and work-in-progress options for different consoles, with the aim of providing a cohesive solution specifically tailored for the Brick. It is a drag-and-drop solution (can be installed simply by extracting to a microSD card) intended to be as small and portable as possible.
