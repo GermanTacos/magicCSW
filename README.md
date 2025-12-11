@@ -19,6 +19,10 @@ magic is my first solo development project. I welcome pull requests or bug repor
 
 1. Extract the contents of the latest release to an **empty** FAT32 microSD card.
 
+## NOTICE
+
+This software is provided as-is, without warranty.
+
 ## CREDITS
 
 chrisj951 - MainPyUI development
