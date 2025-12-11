@@ -1,4 +1,4 @@
-<img src"magiccsw.png" width=500/>
+![magic CSW logo](/magiccsw.png "magic CSW")
 ## magic CSW for Trimui Brick
 ### ver. 0.1 ALPHA
 
