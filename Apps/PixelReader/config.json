@@ -1,0 +1,7 @@
+{
+	"label":"PixelReader",
+	"icon":"icon.png",
+	"iconsel":"icon.png",
+	"launch":"launch.sh",
+	"description":"PixelReader v0.6"
+}

@@ -27,3 +27,4 @@ This software is provided as-is, without warranty.
 ## CREDITS
 
 chrisj951 - MainPyUI development
+ealang - PixelReader
