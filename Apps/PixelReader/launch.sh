@@ -7,6 +7,6 @@ export LD_LIBRARY_PATH=$(dirname "$0")/lib:/mnt/SDCARD/magic/bin:$LD_LIBRARY_PAT
 
 sleep 0.6
 
-./reader 2>log.txt
+./reader
 	
 kill -9 $(pidof gptokeyb)

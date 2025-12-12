@@ -1,2 +1,0 @@
-sh: setterm: not found
-sh: setterm: not found
